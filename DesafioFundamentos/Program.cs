@@ -1,4 +1,5 @@
-﻿using DesafioFundamentos.Models;
+﻿//Utilizado uma maquina apenas com o .net9.0
+using DesafioFundamentos.Models;
 
 // Coloca o encoding para UTF8 para exibir acentuação
 Console.OutputEncoding = System.Text.Encoding.UTF8;
